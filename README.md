@@ -149,7 +149,7 @@ We welcome contributions from the community! Follow these steps to add your mod:
 
 ---  
 
-## ⚖️ Licensing  
+## ⚖️ License
 This repository is licensed under the [MIT License](LICENSE).  
 
 Individual mods may have their own licensing terms provided by their creators.  
